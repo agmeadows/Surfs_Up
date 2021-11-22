@@ -13,4 +13,13 @@ The findings indicate the following:
 - December has a slightly lower average of 71
 - Even with the lower average the majority of the temperatures (50%+) are above 70
 
-![June Results](/Resources/June.PNG)![December Results](/Resources/December.PNG)
+Here you can see both months side by side:
+
+![June Results](/Resources/June.PNG)![December Results]  (/Resources/December.PNG)
+
+##Summary:
+
+With this data it is clear the stores would be viable. The temperatures remain relatively high most of the time. There are some additional queries that could be run. They are:
+
+- Query for precipitation. Rain can limit ice cream and surf sales
+- Querying for the mode may also be useful as that will indicate the temperatures that appear most in the two months
