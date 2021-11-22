@@ -15,7 +15,7 @@ The findings indicate the following:
 
 Here you can see both months side by side:
 
-![June Results](/Resources/June.PNG)![December Results]  (/Resources/December.PNG)
+![June Results](/Resources/June.PNG)  ![December Results](/Resources/December.PNG)
 
 ##Summary:
 
