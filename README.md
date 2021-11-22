@@ -1,10 +1,10 @@
 # Surfs_Up Analysis
  
- ##Overview:
+## Overview:
 
 The purpose of this analyssis is to determine if the surf and ice cream shop will be sustainable over the course of a year. This is done by analysing temps for June and December.
 
-##Results:
+## Results:
 
 The findings indicate the following:
 
@@ -17,7 +17,7 @@ Here you can see both months side by side:
 
 ![June Results](/Resources/June.PNG)  ![December Results](/Resources/December.PNG)
 
-##Summary:
+## Summary:
 
 With this data it is clear the stores would be viable. The temperatures remain relatively high most of the time. There are some additional queries that could be run. They are:
 
